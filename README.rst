@@ -76,7 +76,7 @@ in the documentation, the number of categories might look to be too much. For
 finding the most relevant resources, please at first look through the general resources.
 
 ============================
-Entrance to TensorFlow World
+Entrance to TensorFlow World - IN PROGRESS
 ============================
 
 In this section, different TensorFlow topics and their associated
