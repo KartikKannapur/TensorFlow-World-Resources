@@ -134,12 +134,12 @@ This part points to resources on how to start to code with TensorFLow
 * `Gentlest Introduction to Tensorflow  <https://www.youtube.com/watch?v=dYhrCUFN0eM>`_
 * `TensorFlow in 5 Minutes  <https://www.youtube.com/watch?v=2FmcHiLCwTU/>`_
 * `Deep Learning with TensorFlow - Introduction to TensorFlow  <https://www.youtube.com/watch?v=MotG3XI2qSs>`_
-* `TensorFlow Tutorial (Sherry Moore, Google Brain)  <https://www.youtube.com/watch?v=Ejec3ID_h0w>`_ - IN PROGRESS
+* `TensorFlow Tutorial (Sherry Moore, Google Brain)  <https://www.youtube.com/watch?v=Ejec3ID_h0w>`_
 * `Deep Learning with Neural Networks and TensorFlow Introduction  <https://www.youtube.com/watch?v=oYbVFhK_olY>`_
 * `A fast with TensorFlow <https:/www.youtube.com/watch?v=Q-FF_0NAT3s>`_
 
 --------------------------
-Going Deeper in TensorFLow
+Going Deeper in TensorFLow - IN PROGRESS
 --------------------------
 
 .. image:: _img/mainpage/goingdeep.gif
